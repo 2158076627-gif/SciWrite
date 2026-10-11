@@ -1,0 +1,9 @@
+interface:
+  display_name: "科研项目书与计划书撰写"
+  short_description: "辅助科研计划、研究方案、论文综述与技术路线，减少套话并统一三线表及真实来源配图"
+  default_prompt: "请使用 $write-technical-plans，根据我的研究问题和资料撰写或修改科研项目计划书、研究方案、论文综述或技术路线。核实来源，解释证据与研究取舍，减少空泛和模板化表达；Word 沿用宋体正文、黑体标题、两字缩进和三线表，重点内容优先配2–3张相关真实期刊原图或官方设备资料图，并在相邻正文引用和解读。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+
+policy:
+  allow_implicit_invocation: true

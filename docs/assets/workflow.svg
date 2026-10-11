@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="256" viewBox="0 0 1440 256" role="img" aria-labelledby="title desc">
+  <title id="title">SciWrite 工作流程</title>
+  <desc id="desc">提供问题与资料，组织证据与论证，整理正文与图表，渲染并逐页检查。</desc>
+  <rect width="1440" height="256" rx="18" fill="#F3F5EF"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif">
+    <g transform="translate(48 41)"><text y="28" font-family="Georgia, serif" font-size="31" fill="#176B58">01</text><text y="80" font-size="27" fill="#243E32" font-weight="600">提供问题与资料</text><text y="120" font-size="18" fill="#647367">原稿 · 文献 · 条件 · 目标读者</text><text y="151" font-size="18" fill="#647367">明确任务与实际约束</text></g>
+    <g transform="translate(406 41)"><text y="28" font-family="Georgia, serif" font-size="31" fill="#176B58">02</text><text y="80" font-size="27" fill="#243E32" font-weight="600">组织证据与论证</text><text y="120" font-size="18" fill="#647367">问题 · 方法 · 取舍 · 验证</text><text y="151" font-size="18" fill="#647367">解释判断依据和适用条件</text></g>
+    <g transform="translate(764 41)"><text y="28" font-family="Georgia, serif" font-size="31" fill="#176B58">03</text><text y="80" font-size="27" fill="#243E32" font-weight="600">整理正文与图表</text><text y="120" font-size="18" fill="#647367">学术表达 · 三线表 · 来源图</text><text y="151" font-size="18" fill="#647367">统一 Word 版式与题注</text></g>
+    <g transform="translate(1122 41)"><text y="28" font-family="Georgia, serif" font-size="31" fill="#176B58">04</text><text y="80" font-size="27" fill="#243E32" font-weight="600">逐页检查交付</text><text y="120" font-size="18" fill="#647367">核查来源 · 渲染 · 修订</text><text y="151" font-size="18" fill="#647367">保留可编辑 Word</text></g>
+  </g>
+  <g fill="none" stroke="#A2B5A7" stroke-width="2"><path d="M349 116H375m-8-8 8 8-8 8M707 116H733m-8-8 8 8-8 8M1065 116H1091m-8-8 8 8-8 8"/></g>
+</svg>

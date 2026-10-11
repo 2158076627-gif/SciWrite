@@ -1,0 +1,37 @@
+{
+  "showcase_date": "2026-10-11",
+  "examples": [
+    {
+      "id": "research-plan",
+      "pages": 37,
+      "docx": {
+        "path": "research-plan/Robot_Assembly_Research_Plan.docx",
+        "bytes": 9602259,
+        "sha256": "2a07bf18d7a81ceb2af46d7837f2f111c4a2b5e24fda54c799a6ae1818a42fba",
+        "provenance": "Unchanged user-provided original"
+      },
+      "pdf": {
+        "path": "research-plan/Robot_Assembly_Research_Plan.pdf",
+        "bytes": 3064962,
+        "sha256": "29488e96243c6a7de60d7062bef0a5fef440b2aead0c73227b7715c8f8b6ade8",
+        "provenance": "Exported from the original DOCX with Microsoft Word"
+      }
+    },
+    {
+      "id": "progress-report",
+      "pages": 17,
+      "docx": {
+        "path": "progress-report/Robot-Assembly-Progress-Report.docx",
+        "bytes": 12701121,
+        "sha256": "672f752261f43811d785688b89fcec91530fec619226e64ea12549a7417b061e",
+        "provenance": "Unchanged user-provided original"
+      },
+      "pdf": {
+        "path": "progress-report/Robot-Assembly-Progress-Report.pdf",
+        "bytes": 3590990,
+        "sha256": "56f63bfc376c818569e199cf5b626b534bb1e858a008f10bfbf1b3b3ae72ce29",
+        "provenance": "Exported from the original DOCX with Microsoft Word"
+      }
+    }
+  ]
+}

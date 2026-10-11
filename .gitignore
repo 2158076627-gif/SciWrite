@@ -1,0 +1,8 @@
+# Local Office lock files and temporary artifacts
+~$*
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+showcase-work/
