@@ -11,7 +11,7 @@
   <a href="write-technical-plans/SKILL.md"><img src="https://img.shields.io/badge/Codex-Skill-176B58?style=flat-square" alt="Codex Skill"></a>
   <a href="#示例文档"><img src="https://img.shields.io/badge/Examples-2_documents-3566A0?style=flat-square" alt="2 example documents"></a>
   <a href="examples/README.md"><img src="https://img.shields.io/badge/Output-DOCX_%2B_PDF-6D5A8D?style=flat-square" alt="DOCX and PDF examples"></a>
-  <a href="SciWrite.zip"><img src="https://img.shields.io/badge/Skill_package-v1.0.0-A56A2B?style=flat-square" alt="Skill package version 1.0.0"></a>
+  <a href="https://github.com/2158076627-gif/SciWrite/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-A56A2B?style=flat-square" alt="SciWrite release v1.0.0"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="#快速开始">快速开始</a> ·
   <a href="docs/usage.md">使用指南</a> ·
   <a href="write-technical-plans/SKILL.md">技能源码</a> ·
-  <a href="https://github.com/2158076627-gif/SciWrite/raw/refs/heads/main/SciWrite.zip">下载技能包</a> ·
+  <a href="https://github.com/2158076627-gif/SciWrite/releases/latest/download/SciWrite.zip">下载技能包</a> ·
   <a href="README.en.md">English</a>
 </p>
 
@@ -84,7 +84,7 @@
 
 ### 1. 安装完整技能目录
 
-下载 [SciWrite.zip](https://github.com/2158076627-gif/SciWrite/raw/refs/heads/main/SciWrite.zip)，解压并找到 `write-technical-plans` 文件夹；也可以克隆仓库取得这个文件夹。将整个文件夹复制到适合你的 Codex 技能目录：
+下载 [SciWrite.zip](https://github.com/2158076627-gif/SciWrite/releases/latest/download/SciWrite.zip)，解压并找到 `write-technical-plans` 文件夹；也可以克隆仓库取得这个文件夹。将整个文件夹复制到适合你的 Codex 技能目录：
 
 | 使用范围 | 技能文件位置 |
 | --- | --- |

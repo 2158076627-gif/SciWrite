@@ -54,7 +54,7 @@ Chapters and length follow the needs of the project. The skill does not prescrib
 
 ## Quick start
 
-**1. Get the skill.** Download [SciWrite.zip](SciWrite.zip), or use the [`write-technical-plans/`](write-technical-plans/) directory in this repository. Copy the complete skill directory with its name and internal structure intact.
+**1. Get the skill.** Download [SciWrite.zip](https://github.com/2158076627-gif/SciWrite/releases/latest/download/SciWrite.zip) from the [v1.0.0 release](https://github.com/2158076627-gif/SciWrite/releases/tag/v1.0.0), or use the [`write-technical-plans/`](write-technical-plans/) directory in this repository. Copy the complete skill directory with its name and internal structure intact.
 
 **2. Install it.** Choose a personal or project skill directory:
 

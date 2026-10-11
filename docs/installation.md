@@ -6,7 +6,7 @@ SciWrite 的技能名是 `write-technical-plans`，安装时请复制**整个同
 
 ## 1. 取得完整文件夹
 
-可以下载仓库中的 [SciWrite.zip](../SciWrite.zip)，解压后进入包含 `write-technical-plans` 的目录；也可以用 Git 克隆仓库：
+可以下载正式版本的 [SciWrite.zip](https://github.com/2158076627-gif/SciWrite/releases/latest/download/SciWrite.zip)，解压后进入包含 `write-technical-plans` 的目录；也可以用 Git 克隆仓库：
 
 ```bash
 git clone https://github.com/2158076627-gif/SciWrite.git

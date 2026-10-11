@@ -1,6 +1,6 @@
 # 发布后的维护与展示
 
-此页供仓库所有者在首次发布后维护 SciWrite。README、展示图和安装包可以分别更新；是否创建正式 Release、选用许可证或启用 Pages，由所有者决定。
+此页供仓库所有者在首次发布后维护 SciWrite。中英文 README、真实文档预览、原始 Word、PDF 阅读版和 [v1.0.0 Release](https://github.com/2158076627-gif/SciWrite/releases/tag/v1.0.0) 已发布。以下说明用于更新内容、完善仓库设置和发布后续版本。
 
 ## 更新 README 与展示图
 
@@ -62,16 +62,16 @@ Topics 使用小写字母、数字和连字符；操作入口见 [GitHub 官方 
 
 分享预览图与 README 内图片分别设置。在仓库 Settings → Social preview → Edit → Upload an image 上传图片。GitHub 建议采用 1280 × 640 像素、低于 1 MB 的 PNG、JPG 或 GIF，见 [官方预览图指南](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview)。
 
-图片可简洁呈现 SciWrite 名称、中文科研写作用途和一个文稿片段。检查小尺寸下的可读性，避免大量小字；封面中的主张应与 README 和技能实际能力一致。
+仓库已准备好 [1280 × 640 分享预览图](assets/social-preview.png)，下载后可直接在上述设置中上传。这个设置需要在 GitHub 网页中完成，提交 README 内的图片不会自动设置 Social preview。
 
-## 可选：创建版本 Release
+## 发布后续版本 Release
 
-仓库已有可下载的 [SciWrite.zip](../SciWrite.zip)。若希望用户固定下载某个版本，可为经过核对的提交创建 Release，并将这个分发 ZIP 作为附件上传。Release 的版本号、稳定性标记和发布时间由所有者决定；下面的 `v1.0.0` 仅是版本名示例。
+仓库已发布 [v1.0.0](https://github.com/2158076627-gif/SciWrite/releases/tag/v1.0.0)，附件为经过核对的原始 `SciWrite.zip`。技能更新后，可为新提交创建新的版本 Release，并上传与该提交一致的技能安装包。新版本号、稳定性标记和发布时间由所有者决定。
 
 发布前先确认 ZIP 中的 `write-technical-plans` 与目标提交的技能文件一致，解压后目录完整，不含个人项目原稿或临时输出。技能有改动时，先更新并检查分发包；不要让 Release 说明与旧 ZIP 混用。
 
 1. 在仓库的 Releases 中点击 Draft a new release。
-2. 选择已有 tag，或创建一个版本 tag（例如 `v1.0.0`），并选择包含本次版本的目标提交或分支。
+2. 创建新的版本 tag（例如 `v1.0.1`），并选择包含本次版本的目标提交或分支。不要将已经发布的 `v1.0.0` tag 移到新提交。
 3. 填写标题与说明，写清楚新增能力、修订规则、兼容要求和已完成的检查。
 4. 在附件区域上传 `SciWrite.zip`。根据版本状态选择是否标记为 pre-release。
 5. 先保存草稿并核对附件；准备好后点击 Publish release。
@@ -81,7 +81,7 @@ Topics 使用小写字母、数字和连字符；操作入口见 [GitHub 官方 
 说明可采用以下格式，并填入本次实际信息：
 
 ```markdown
-SciWrite v1.0.0
+SciWrite v1.0.1
 
 - 内容：中文科研计划、研究方案、综述与技术路线的写作参考、排版配置和脚本。
 - 安装：解压附件，完整复制 write-technical-plans 文件夹；见 docs/installation.md。
@@ -91,7 +91,7 @@ SciWrite v1.0.0
 - 已知限制：[填写尚未核验的兼容性或工具条件]
 ```
 
-首次 Release 发布并设为 latest 后，可以把 README 的下载入口改为其正式附件链接。固定版本链接用于可复现下载；`releases/latest/download/SciWrite.zip` 用于最新版本。链接规则见 [GitHub 官方 Release 链接指南](https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases)。在 Release 实际存在之前，继续使用仓库 ZIP 链接。
+README 的下载入口已使用 `releases/latest/download/SciWrite.zip`，后续稳定版本设为 latest 后会自动指向新附件；附件名称应继续使用 `SciWrite.zip`。固定版本链接用于可复现下载。链接规则见 [GitHub 官方 Release 链接指南](https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases)。
 
 ## 许可证与 Pages
 
